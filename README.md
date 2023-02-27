@@ -6,5 +6,3 @@ Given an input text, this algorithm displays the number of repetitions of each w
 
 - Clone and navigate to the folder.
 - Run `python3 main.py`.
-
-# Test are pending.
